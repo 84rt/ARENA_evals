@@ -1,0 +1,9 @@
+.env
+# Ignore all __pycache__ directories
+**/__pycache__/
+
+# Ignore .pyc files in any directory
+**/*.pyc
+chapter1_transformer_interp
+.pyc
+**/*.DS_Store
